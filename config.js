@@ -27,9 +27,9 @@ module.exports = {
     bio: ' Azure Administrator',
     contacts: {
       email: 'marvinconejo@icloud.com',
-      facebook: '#',
+      facebook: 'marvinconejo',
       telegram: '#',
-      twitter: '#',
+      twitter: 'marvinconejoa',
       github: '#',
       rss: '',
       vkontakte: '',
