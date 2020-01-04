@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://marvinconejo.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Blog by Marvin Conejo',
+  subtitle: 'Cloud Azure',
+  copyright: '© 2019 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -15,21 +15,18 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
+     
     {
       label: 'Contact me',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Marvin Conejo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: ' Azure Administrator',
     contacts: {
-      email: '',
+      email: 'marvinconejo@icloud.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
